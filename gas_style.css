@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(154, 195, 255);
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    line-height: 1.6em;
+    margin: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+header{
+    color: white;
+    text-align: center;
+    margin-bottom: 100px;
+    background-image: url('Slike/gas21.jpg');
+    height: 800px;
+    width: 100%;
+    background-size: 100%
+}
+
+header h1{
+    padding-top: 400px;
+    font-size: 80px;
+    line-height: 1.4em;
+}
+
+.oblika{
+    width: 85%;
+    margin: auto;
+    overflow: hidden;
+    font-size: 25px;
+}
+
+.oblika h1{
+    text-align: center;
+    line-height: 1.4em;
+}
+
+.oMeni{
+    border: black solid 2px;
+    border-radius: 15px;
+    padding: 30px;
+    float: left;
+    width: 30%;
+    
+}
+
+
+
+.prostiCas{
+    border: black solid 2px;
+    border-radius: 15px;
+    padding: 30px;
+    float: left;
+    width: 30%;
+    
+}
+
+.slike{
+    margin: 20px;
+}
+
+.kontakt{
+    border: black solid 2px;
+    border-radius: 15px;
+    padding: 30px;
+    float: left;
+    width: 30%;
+}
+ 
+
+
+#footer{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    margin-top: 60px;
+    font-size: 15px;
+}

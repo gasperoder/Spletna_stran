@@ -1,0 +1,160 @@
+body{
+    background-color: lightblue;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 18px;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.glavna-oblika{
+    width: 85%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.glavna-oblika h1{
+    text-align: center;
+    font-size: 70px;
+    margin: 100px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-shadow: 9px 8px 0px rgba(0,0,0,0.15);
+    line-height: 1em;
+}
+
+#header{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    height: 800px;
+    background: url('Slike/druzinska1.jpg');
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+.section1{
+    margin: 20px auto 60px auto;
+    text-align: center;
+    
+}
+
+
+
+.gorazd{
+    background: url('Slike/ata.jpg');
+    border: 2px solid black;
+    border-radius: 20px;
+    float: left;
+    transition: .5s ease;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 120px;
+    
+}
+
+.patricija{
+    background: url('Slike/mama.jpg');
+    border: 2px solid black;
+    border-radius: 20px;
+    float: left;
+    transition: .5s ease;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 120px;
+}
+
+.tinkara{
+    background: url('Slike/tinkara.jpg');
+    border: 2px solid black;
+    border-radius: 20px;
+    float: left;
+    transition: .5s ease;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 120px;
+}
+
+.gasper{
+    background: url('Slike/gasper.jpg');
+    border: 2px solid black;
+    border-radius: 20px;
+    float: left;
+    transition: .5s ease;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 120px;
+}
+
+
+.ana{
+    background: url('Slike/ana.jpg');
+    border: 2px solid black;
+    border-radius: 20px;
+    float: left;
+    transition: .5s ease;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 120px;
+}
+
+
+.beli{
+    background: url('Slike/beli.jpg');
+    border: 2px solid black;
+    border-radius: 20px;
+    float: left;
+    transition: .5s ease;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 120px;
+}
+
+.link{
+	transition: .2s ease-in-out;
+}
+
+.link:hover{
+	-webkit-filter: grayscale(100%) blur(3px);
+	filter: grayscale(0%) blur(2px);
+}
+
+
+#nekaj-o-nas{
+    border: 2px black solid;
+    border-radius: 15px;
+    float: left;
+    width: 65%;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    box-sizing: border-box;
+    padding:0px 20px;
+}
+
+#podatki{
+    border: 2px black solid;
+    border-radius: 15px;
+    float: left;
+    width: 30%;
+    box-sizing: border-box;
+    margin-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+#footer{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    margin-top: 60px;
+    font-size: 15px;
+}
